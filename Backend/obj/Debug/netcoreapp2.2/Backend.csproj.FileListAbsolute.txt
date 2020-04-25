@@ -1,0 +1,13 @@
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.deps.json
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.runtimeconfig.json
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.runtimeconfig.dev.json
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.dll
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.csproj.CoreCompileInputs.cache
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.RazorAssemblyInfo.cache
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.RazorAssemblyInfo.cs
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.AssemblyInfoInputs.cache
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.AssemblyInfo.cs
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.pdb
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.dll
+C:\Users\TeamDiolola\Documents\Work\Project\Training\AngularJS\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.pdb
